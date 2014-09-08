@@ -4,6 +4,14 @@
 ##### Author(s): {{ authors }}
 ##### Approved by: Board of Directors
 
+**Table of Contents**
+
+- [Objective](#user-content-objective)
+- [Applicability](#user-content-applicability)
+- [Values](#user-content-values)
+- [Definitions](#user-content-definitions)
+- [Policy](#user-content-policy)
+
 ##Objective
 
 This policy codifies the zero tolerance approach taken by {{ organistion.shortname }} towards bribery and corruption.
