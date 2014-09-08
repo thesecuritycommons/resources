@@ -1,4 +1,4 @@
-# {{ organisation.name }} Security Policy
+# {{ organisation.name }} ({{ organisation.shortname }}) Security Policy
 ##### Version: {{ version }}
 ##### Last Update: {{ date }}
 ##### Author(s): {{ authors }}
@@ -35,7 +35,7 @@
 
 ##Principles of Safety and Security
 
-The safety and security of our staff and volunteers is the highest priority for {{ organisation.shortname }} ({{ organisation.name }}). As an organisation we accept our Duty of Care for our staff and volunteers when they are deployed on {{ organisation.shortname }} projects. {{ organisation.shortname }} is committed to developing and implementing clear, relevant and proportional security policy, protocols and plans.
+The safety and security of our staff and volunteers is the highest priority for {{ organisation.shortname }}. As an organisation we accept our Duty of Care for our staff and volunteers when they are deployed on {{ organisation.shortname }} projects. {{ organisation.shortname }} is committed to developing and implementing clear, relevant and proportional security policy, protocols and plans.
 
 We define security as when our people are reasonably protected, and perceive themselves to be protected, and when the organisation’s reputation and integrity is maintained.  We are committed to our responsibility to ensure the physical and emotional well-being of our people before, during and on completion of their period of work with us.
 
