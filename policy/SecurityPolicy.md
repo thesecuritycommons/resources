@@ -4,6 +4,8 @@
 ##### Author(s): {{ authors }}
 ##### Approved by: Board of Directors
 
+[[_TOC_]]
+
 ##Principles of Safety and Security
 
 The safety and security of our staff and volunteers is the highest priority for {{ organisation.shortname }} ({{ organisation.name }}). As an organisation we accept our Duty of Care for our staff and volunteers when they are deployed on {{ organisation.shortname }} projects. {{ organisation.shortname }} is committed to developing and implementing clear, relevant and proportional security policy, protocols and plans.
