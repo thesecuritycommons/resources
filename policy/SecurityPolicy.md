@@ -189,5 +189,7 @@ Security incidents directly affecting {{ organistion.shortname }} staff and volu
 For salaried staff {{ organistion.shortname }} in the event of incapacitation resulting in the inability to work. {{ organistion.shortname }} will continue to pay their salary for the duration of their contracted period. For volunteers {{ organistion.shortname }} will pay their stipend for the duration of their contract period. Subject to the organisation’s financial means and insurance arrangements. 
 
 ##Annexes
+
 Annex A. Personal and Medical Information Form
+
 Annex B. Incident Report Form
