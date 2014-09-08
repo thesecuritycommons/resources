@@ -4,7 +4,7 @@
 ##### Author(s): {{ authors }}
 ##### Approved by: Board of Directors
 
-**Table of Contents**
+##Table of Contents
 
 - [Principles of Safety and Security](#user-content-principles-of-safety-and-security)
 - [Applicability](#user-content-applicability)

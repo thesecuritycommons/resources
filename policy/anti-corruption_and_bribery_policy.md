@@ -4,7 +4,7 @@
 ##### Author(s): {{ authors }}
 ##### Approved by: Board of Directors
 
-**Table of Contents**
+##Table of Contents
 
 - [Objective](#user-content-objective)
 - [Applicability](#user-content-applicability)
