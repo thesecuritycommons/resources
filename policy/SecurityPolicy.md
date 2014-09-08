@@ -4,7 +4,34 @@
 ##### Author(s): {{ authors }}
 ##### Approved by: Board of Directors
 
-[[_TOC_]]
+**Table of Contents**
+
+- [Principles of Safety and Security](#user-content-principles-of-safety-and-security)
+- [Applicability](#user-content-applicability)
+- [Security Strategy](#user-content-security-strategy)
+- [Implementation](#user-content-implementation)
+- [Roles and Responsibilities](#user-content-roles-and-responsibilities)
+	- [Board of Directors](#user-content-board-of-directors)
+	- [Executive Director](#user-content-executive-director)
+	- [Project Leader](#user-content-project-leader)
+	- [Team member](#user-content-team-member)
+- [Code of Conduct](#user-content-code-of-conduct)
+- [Protocols](#user-content-protocols)
+	- [Security Planning](#user-content-security-planning)
+	- [Briefing](#user-content-briefing)
+	- [Travel](#user-content-travel)
+		- [Air Travel](#user-content-air-travel)
+		- [Ground Travel](#user-content-ground-travel)
+		- [Boat Travel](#user-content-boat-travel)
+	- [Accommodation](#user-content-accommodation)
+	- [Health and safety](#user-content-health-and-safety)
+	- [Emergency Contact and Medical Information](#user-content-emergency-contact-and-medical-information)
+	- [Communication](#user-content-communication)
+	- [Crisis Management](#user-content-crisis-management)
+	- [Evacuation](#user-content-evacuation)
+	- [Incident Reporting](#user-content-incident-reporting)
+	- [Compensation](#user-content-compensation)
+- [Annexes](#user-content-annexes)
 
 ##Principles of Safety and Security
 
