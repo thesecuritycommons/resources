@@ -101,7 +101,7 @@ Every individual at every level has specific roles and responsibilities. This se
 
 ##Code of Conduct
 
-Individual behaviour in the field can have a significant impact on the safety and security of a project. {{ organistion.shortname }} has established a Code of Conduct which all staff and volunteers are required to abide by. T
+Individual behaviour in the field can have a significant impact on the safety and security of a project. {{ organistion.shortname }} has established a Code of Conduct which all staff and volunteers are required to abide by.
 
 ##Protocols
 
