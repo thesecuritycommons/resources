@@ -127,7 +127,7 @@ UN Charters or airlines that are not listed on the European Union Blacklist are 
 
 ####Ground Travel
 
-Road Traffic Accidents (RTAs) are the single biggest of cause of death and injury for NGO staff.
+Next to intentional violence, Road Traffic Accidents (RTAs) are one of the single biggest causes of death and injury for NGO staff.
 Travel by well maintained vehicles appropriate for the road conditions with a locally hired driver. Specifics including movement plans and road conditions need to be detailed in the security plan. All journeys must be planned in advance making sure the vehicles are well maintained and have sufficient fuel. In rural areas strictly travel by vehicle only during daylight hours. In rural areas for distances over 300 km should be in a convey of at least two vehicles. To maintain the safety and security of {{ organistion.shortname }} Associates and the impartiality of the organization no weapons of any kind are to be permitted in a vehicle under the immediate control of {{ organistion.shortname }}. 
 The security plan will inform of the safety and suitability of local transport. 
 
